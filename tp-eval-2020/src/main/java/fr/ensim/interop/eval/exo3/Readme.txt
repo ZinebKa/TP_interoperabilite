@@ -1,0 +1,2 @@
+J'ai réalisé un niveau après l'autre, en passant au suivant je mets mon code testé en commentaire.
+Le test de chaque niveau se fait indépendemment des autres donc je dois garder les autres codes en commentaires pour tester un niveau donné.
